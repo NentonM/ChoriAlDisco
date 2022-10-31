@@ -1,0 +1,592 @@
+1665519191507	geckodriver	INFO	Listening on 127.0.0.1:57120
+1665519194569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileUUzkSc"
+1665519241150	geckodriver	INFO	Listening on 127.0.0.1:50245
+1665519244196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileC40KfB"
+1665519244609	Marionette	INFO	Marionette enabled
+1665519244616	Marionette	INFO	Listening on port 50327
+Read port: 50327
+WebDriver BiDi listening on ws://127.0.0.1:50246
+1665519244810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileC40KfB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50246/devtools/browser/3be40acc-754a-4e22-b9b4-e69906acfb38
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665519260607	Marionette	INFO	Stopped listening on port 50327
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\user\AppData\Local\Temp\rust_mozprofileC40KfB\protections.sqlite
+1665519420431	geckodriver	INFO	Listening on 127.0.0.1:59540
+1665519423475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileewcaCB"
+1665519423892	Marionette	INFO	Marionette enabled
+1665519423897	Marionette	INFO	Listening on port 59551
+Read port: 59551
+WebDriver BiDi listening on ws://127.0.0.1:59541
+1665519424084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileewcaCB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59541/devtools/browser/6c58f6a7-4b6a-48ff-a044-f973e205cd77
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665519436510	Marionette	INFO	Stopped listening on port 59551
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\user\AppData\Local\Temp\rust_mozprofileewcaCB\protections.sqlite
+1665519571744	geckodriver	INFO	Listening on 127.0.0.1:60931
+1665519574804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuzucAt"
+1665519575237	Marionette	INFO	Marionette enabled
+1665519575245	Marionette	INFO	Listening on port 60945
+Read port: 60945
+WebDriver BiDi listening on ws://127.0.0.1:60932
+1665519575450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileuzucAt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60932/devtools/browser/562e0160-c2d6-4449-8351-f9ff02a1b163
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665519593536	Marionette	INFO	Stopped listening on port 60945
+1665519688223	geckodriver	INFO	Listening on 127.0.0.1:58975
+1665519691267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDAgEUu"
+1665519691721	Marionette	INFO	Marionette enabled
+1665519691725	Marionette	INFO	Listening on port 58992
+Read port: 58992
+WebDriver BiDi listening on ws://127.0.0.1:58976
+1665519691918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileDAgEUu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58976/devtools/browser/01480633-8b7b-46dc-84ca-d2d787069174
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665519709963	Marionette	INFO	Stopped listening on port 58992
+1665519733387	geckodriver	INFO	Listening on 127.0.0.1:58518
+1665519736406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileSwflzc"
+1665519736799	Marionette	INFO	Marionette enabled
+1665519736804	Marionette	INFO	Listening on port 52073
+Read port: 52073
+WebDriver BiDi listening on ws://127.0.0.1:58519
+1665519736985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileSwflzc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58519/devtools/browser/78dd5d0e-8558-4415-b5e6-b27b04f682ea
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665519755323	Marionette	INFO	Stopped listening on port 52073
+1665521016281	geckodriver	INFO	Listening on 127.0.0.1:58796
+1665521019324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileL5VOsC"
+1665521019725	Marionette	INFO	Marionette enabled
+1665521019730	Marionette	INFO	Listening on port 58809
+Read port: 58809
+WebDriver BiDi listening on ws://127.0.0.1:58797
+1665521019944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileL5VOsC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58797/devtools/browser/79080bb9-0076-4f16-a3dd-9a11aab1172c
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665521032477	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665521038415	Marionette	INFO	Stopped listening on port 58809
+1665521098098	geckodriver	INFO	Listening on 127.0.0.1:58792
+1665521101133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7Aym1y"
+1665521101529	Marionette	INFO	Marionette enabled
+1665521101534	Marionette	INFO	Listening on port 58810
+Read port: 58810
+WebDriver BiDi listening on ws://127.0.0.1:58793
+1665521101716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7Aym1y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58793/devtools/browser/c207c7d6-87ed-4cbe-b6eb-bacce1b054f4
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665521123502	Marionette	INFO	Stopped listening on port 58810
+1665521166457	geckodriver	INFO	Listening on 127.0.0.1:54360
+1665521169518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesazCOC"
+1665521169926	Marionette	INFO	Marionette enabled
+1665521169930	Marionette	INFO	Listening on port 54631
+Read port: 54631
+WebDriver BiDi listening on ws://127.0.0.1:54361
+1665521170143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesazCOC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54361/devtools/browser/ffc6cb39-2a80-429c-b3a2-0af416c1a467
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665521187218	Marionette	INFO	Stopped listening on port 54631
+1665521264332	geckodriver	INFO	Listening on 127.0.0.1:64566
+1665521267365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFw4BNn"
+1665521267790	Marionette	INFO	Marionette enabled
+1665521267799	Marionette	INFO	Listening on port 64580
+Read port: 64580
+WebDriver BiDi listening on ws://127.0.0.1:64567
+1665521268018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFw4BNn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64567/devtools/browser/7e42fb88-f75e-4ab4-8640-d7b18f0d0836
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665521312502	Marionette	INFO	Stopped listening on port 64580
+1665521478476	geckodriver	INFO	Listening on 127.0.0.1:61789
+1665521481515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile1cd95I"
+1665521481926	Marionette	INFO	Marionette enabled
+1665521481932	Marionette	INFO	Listening on port 61803
+Read port: 61803
+WebDriver BiDi listening on ws://127.0.0.1:61790
+1665521482121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile1cd95I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61790/devtools/browser/e0128179-047e-4db6-ba82-a29225e55f1e
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665521530864	Marionette	INFO	Stopped listening on port 61803
+1665521725773	geckodriver	INFO	Listening on 127.0.0.1:51203
+1665521728798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51204" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileeAUx0x"
+1665521729193	Marionette	INFO	Marionette enabled
+1665521729198	Marionette	INFO	Listening on port 51218
+Read port: 51218
+WebDriver BiDi listening on ws://127.0.0.1:51204
+1665521729381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileeAUx0x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51204/devtools/browser/3ad4edfe-33f7-491c-adbf-81f994663ad4
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665521771803	Marionette	INFO	Stopped listening on port 51218
+1665521874828	geckodriver	INFO	Listening on 127.0.0.1:56564
+1665521877882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWFAbUx"
+1665521878305	Marionette	INFO	Marionette enabled
+1665521878310	Marionette	INFO	Listening on port 56577
+Read port: 56577
+WebDriver BiDi listening on ws://127.0.0.1:56565
+1665521878489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileWFAbUx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56565/devtools/browser/d56ed847-c708-4de5-9a00-79b328e1124a
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665521915451	Marionette	INFO	Stopped listening on port 56577
+1665589329985	geckodriver	INFO	Listening on 127.0.0.1:52596
+1665589333071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilek0MIBf"
+1665589333749	Marionette	INFO	Marionette enabled
+1665589333759	Marionette	INFO	Listening on port 52606
+Read port: 52606
+WebDriver BiDi listening on ws://127.0.0.1:52597
+1665589333986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilek0MIBf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52597/devtools/browser/2c690b7e-1e4f-42ae-a74d-8dba10e83d8f
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665589353689	Marionette	INFO	Stopped listening on port 52606
+1665589389100	geckodriver	INFO	Listening on 127.0.0.1:52927
+1665589392153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52928" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilefHXUxB"
+1665589392641	Marionette	INFO	Marionette enabled
+1665589392646	Marionette	INFO	Listening on port 52937
+Read port: 52937
+WebDriver BiDi listening on ws://127.0.0.1:52928
+1665589392826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilefHXUxB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52928/devtools/browser/8e266c42-5ca9-412f-a834-768066d544c1
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665589420810	Marionette	INFO	Stopped listening on port 52937
+1665589524941	geckodriver	INFO	Listening on 127.0.0.1:53421
+1665589527984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerCTMzZ"
+1665589528481	Marionette	INFO	Marionette enabled
+1665589528493	Marionette	INFO	Listening on port 53434
+Read port: 53434
+WebDriver BiDi listening on ws://127.0.0.1:53422
+1665589528757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilerCTMzZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53422/devtools/browser/d8fe2920-91b1-4a8b-b49b-ee3e1b130f71
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665589571997	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665589578208	Marionette	INFO	Stopped listening on port 53434
+1665589612203	geckodriver	INFO	Listening on 127.0.0.1:53885
+1665589615237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKCmg21"
+1665589615623	Marionette	INFO	Marionette enabled
+1665589615628	Marionette	INFO	Listening on port 53895
+Read port: 53895
+WebDriver BiDi listening on ws://127.0.0.1:53886
+1665589615811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileKCmg21\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53886/devtools/browser/74b2cc6f-b1d2-49c3-980c-0f5eeb1da634
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665589628026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665589634716	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665589642743	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665589654921	Marionette	INFO	Stopped listening on port 53895
+1665590027509	geckodriver	INFO	Listening on 127.0.0.1:55585
+1665590030536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileV8NMHq"
+1665590031170	Marionette	INFO	Marionette enabled
+1665590031176	Marionette	INFO	Listening on port 55596
+Read port: 55596
+WebDriver BiDi listening on ws://127.0.0.1:55586
+1665590031414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileV8NMHq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55586/devtools/browser/ee0eb625-f308-4a3a-8d00-b2fbd6112b2f
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665590053015	Marionette	INFO	Stopped listening on port 55596
+1665590917196	geckodriver	INFO	Listening on 127.0.0.1:51200
+1665590920244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMDz6K5"
+1665590922118	Marionette	INFO	Marionette enabled
+1665590922126	Marionette	INFO	Listening on port 51212
+Read port: 51212
+WebDriver BiDi listening on ws://127.0.0.1:51201
+Read port: 51212
+1665590924722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMDz6K5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51201/devtools/browser/1f9876a1-4a49-4791-ae0a-115ead58c771
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665590944046	Marionette	INFO	Stopped listening on port 51212
+1665590995035	geckodriver	INFO	Listening on 127.0.0.1:51669
+1665590998091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51670" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesV2rrH"
+1665590998618	Marionette	INFO	Marionette enabled
+1665590998624	Marionette	INFO	Listening on port 51682
+WebDriver BiDi listening on ws://127.0.0.1:51670
+Read port: 51682
+Read port: 51682
+Read port: 51682
+1665591001214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilesV2rrH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51670/devtools/browser/a2ddb163-9953-4538-9b64-843547719758
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665591024832	Marionette	INFO	Stopped listening on port 51682
+1665591803827	geckodriver	INFO	Listening on 127.0.0.1:57551
+1665591806860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileY73sVQ"
+1665591807411	Marionette	INFO	Marionette enabled
+1665591807421	Marionette	INFO	Listening on port 57567
+Read port: 57567
+WebDriver BiDi listening on ws://127.0.0.1:57552
+1665591807654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileY73sVQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57552/devtools/browser/ded1a0d1-e5d1-486f-b439-f3cc2735bf1d
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665591830428	Marionette	INFO	Stopped listening on port 57567
+1665592281911	geckodriver	INFO	Listening on 127.0.0.1:50506
+1665592284958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQ9LCh8"
+1665592285339	Marionette	INFO	Marionette enabled
+1665592285346	Marionette	INFO	Listening on port 50519
+Read port: 50519
+WebDriver BiDi listening on ws://127.0.0.1:50507
+1665592285522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileQ9LCh8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50507/devtools/browser/95655edf-6b07-4915-a54c-061491fa6b5f
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665592308268	Marionette	INFO	Stopped listening on port 50519
+1665592360315	geckodriver	INFO	Listening on 127.0.0.1:51052
+1665592363365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilegUloaD"
+1665592363745	Marionette	INFO	Marionette enabled
+1665592363753	Marionette	INFO	Listening on port 51065
+Read port: 51065
+WebDriver BiDi listening on ws://127.0.0.1:51053
+1665592363921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilegUloaD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51053/devtools/browser/8b38e473-7201-4a50-aecf-603abe7e3f08
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665592409500	Marionette	INFO	Stopped listening on port 51065
+1665592429795	geckodriver	INFO	Listening on 127.0.0.1:51758
+1665592432820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile5gHJOt"
+1665592433207	Marionette	INFO	Marionette enabled
+1665592433214	Marionette	INFO	Listening on port 51772
+Read port: 51772
+WebDriver BiDi listening on ws://127.0.0.1:51759
+1665592433402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile5gHJOt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51759/devtools/browser/68972660-0715-45b5-a9b7-d6f5ba66f754
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665592480100	Marionette	INFO	Stopped listening on port 51772
+1665592503758	geckodriver	INFO	Listening on 127.0.0.1:52493
+1665592506783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileO6vAhp"
+1665592507143	Marionette	INFO	Marionette enabled
+1665592507149	Marionette	INFO	Listening on port 52505
+Read port: 52505
+WebDriver BiDi listening on ws://127.0.0.1:52494
+1665592507429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileO6vAhp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52494/devtools/browser/80d7692d-5f13-4a2a-9a59-4adc80926698
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665592585225	Marionette	INFO	Stopped listening on port 52505
+[Parent 7432, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1665598479831	geckodriver	INFO	Listening on 127.0.0.1:65523
+1665598482886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile0vWf5H"
+1665598483597	Marionette	INFO	Marionette enabled
+1665598483606	Marionette	INFO	Listening on port 65533
+Read port: 65533
+WebDriver BiDi listening on ws://127.0.0.1:65524
+1665598483860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile0vWf5H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65524/devtools/browser/e47324e5-e677-480e-bf91-7b9eace55d4f
+JavaScript warning: https://resources-rt-dev-2.idx.lat/T2.min.js?id=IDX-1UUZ2H, line 480: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598515911	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598525110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598532906	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598543628	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598554064	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598562300	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598571074	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598590320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598609338	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598627503	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598635216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598653137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598659985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.hardgamers.com.ar."
+1665598675871	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1665598681487	Marionette	INFO	Stopped listening on port 65533
